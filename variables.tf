@@ -25,5 +25,5 @@ variable "scale_out_cooldown" {
 
 variable "policy_target_value" {
   type    = number
-  default = 50
+  default = 10
 }
